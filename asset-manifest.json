@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/my_folio/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/my_folio/static/js/main.416571b3.chunk.js",
-    "main.js.map": "/my_folio/static/js/main.416571b3.chunk.js.map",
-    "runtime-main.js": "/my_folio/static/js/runtime-main.46fc0ff2.js",
-    "runtime-main.js.map": "/my_folio/static/js/runtime-main.46fc0ff2.js.map",
-    "static/js/2.e42f8974.chunk.js": "/my_folio/static/js/2.e42f8974.chunk.js",
-    "static/js/2.e42f8974.chunk.js.map": "/my_folio/static/js/2.e42f8974.chunk.js.map",
-    "static/js/3.ea822640.chunk.js": "/my_folio/static/js/3.ea822640.chunk.js",
-    "static/js/3.ea822640.chunk.js.map": "/my_folio/static/js/3.ea822640.chunk.js.map",
+    "main.css": "/my_folio/static/css/main.db5d6f1c.chunk.css",
+    "main.js": "/my_folio/static/js/main.d33592de.chunk.js",
+    "main.js.map": "/my_folio/static/js/main.d33592de.chunk.js.map",
+    "runtime-main.js": "/my_folio/static/js/runtime-main.c6c7fc38.js",
+    "runtime-main.js.map": "/my_folio/static/js/runtime-main.c6c7fc38.js.map",
+    "static/css/2.40acce83.chunk.css": "/my_folio/static/css/2.40acce83.chunk.css",
+    "static/js/2.7e72836c.chunk.js": "/my_folio/static/js/2.7e72836c.chunk.js",
+    "static/js/2.7e72836c.chunk.js.map": "/my_folio/static/js/2.7e72836c.chunk.js.map",
+    "static/js/3.551fec35.chunk.js": "/my_folio/static/js/3.551fec35.chunk.js",
+    "static/js/3.551fec35.chunk.js.map": "/my_folio/static/js/3.551fec35.chunk.js.map",
     "index.html": "/my_folio/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/my_folio/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.e42f8974.chunk.js.LICENSE.txt": "/my_folio/static/js/2.e42f8974.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my_folio/static/media/logo.6ce24c58.svg"
+    "static/css/2.40acce83.chunk.css.map": "/my_folio/static/css/2.40acce83.chunk.css.map",
+    "static/css/main.db5d6f1c.chunk.css.map": "/my_folio/static/css/main.db5d6f1c.chunk.css.map",
+    "static/js/2.7e72836c.chunk.js.LICENSE.txt": "/my_folio/static/js/2.7e72836c.chunk.js.LICENSE.txt",
+    "static/media/My_Resume.a832b2cd.pdf": "/my_folio/static/media/My_Resume.a832b2cd.pdf",
+    "static/media/font-awesome.css": "/my_folio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/Header.css": "/my_folio/static/media/header-background.3b9d0a7b.jpg",
+    "static/media/profile-pic.d6358373.jpeg": "/my_folio/static/media/profile-pic.d6358373.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.46fc0ff2.js",
-    "static/js/2.e42f8974.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.416571b3.chunk.js"
+    "static/js/runtime-main.c6c7fc38.js",
+    "static/css/2.40acce83.chunk.css",
+    "static/js/2.7e72836c.chunk.js",
+    "static/css/main.db5d6f1c.chunk.css",
+    "static/js/main.d33592de.chunk.js"
   ]
 }
