@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my_folio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/my_folio/static/js/main.416571b3.chunk.js",
+    "main.js.map": "/my_folio/static/js/main.416571b3.chunk.js.map",
+    "runtime-main.js": "/my_folio/static/js/runtime-main.46fc0ff2.js",
+    "runtime-main.js.map": "/my_folio/static/js/runtime-main.46fc0ff2.js.map",
+    "static/js/2.e42f8974.chunk.js": "/my_folio/static/js/2.e42f8974.chunk.js",
+    "static/js/2.e42f8974.chunk.js.map": "/my_folio/static/js/2.e42f8974.chunk.js.map",
+    "static/js/3.ea822640.chunk.js": "/my_folio/static/js/3.ea822640.chunk.js",
+    "static/js/3.ea822640.chunk.js.map": "/my_folio/static/js/3.ea822640.chunk.js.map",
+    "index.html": "/my_folio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/my_folio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.e42f8974.chunk.js.LICENSE.txt": "/my_folio/static/js/2.e42f8974.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my_folio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46fc0ff2.js",
+    "static/js/2.e42f8974.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.416571b3.chunk.js"
+  ]
+}
